@@ -194,6 +194,9 @@ button:hover{
         font-size:  15px;
     }
      
-    
+    .col-1::after{
+    left: 0;
+    }
+
     
 }
